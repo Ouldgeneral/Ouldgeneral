@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ouldgeneral
+- 👋 Hi, I’m Malick Ould Hamdi
 - 👀 I’m interested in app and web developement
-- 🌱 My current languages are:Python,Java,C#,JS,Html,css and some basics of C
-- 💞️ I’m looking to collaborate on creating a new hacking os
+- 🌱 My current languages are:Python,Java,C#,JS,C,C++
+- 💞️ I’m looking to collaborate on creating a new Linux distro
 Thank you 😃
